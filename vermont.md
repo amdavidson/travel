@@ -2,4 +2,5 @@
 
 ## Camping
 
-- Lake Carmi - https://www.vtstateparks.com/carmi.html
+- [ ] Lake Carmi State Park - https://www.vtstateparks.com/carmi.html
+- [v] Little River State Park
